@@ -18,11 +18,11 @@
 
 ## The Backstory
 
-Your assignment, should you accept it is to create a system to support our schools, teachers, and children to evaluate the students process toward matriculation. Unfortunately due to recent budget cuts we had to terminate our contract with our school management system, and we have a dire need to be able to calculate students grades.
+Your assignment, should you accept it is to create a system to support our schools, teachers, and children to evaluate the students process toward matriculation. Unfortunately, due to recent budget cuts we had to terminate our contract with our school management system, and we have a dire need to be able to calculate student's grades.
 
 ## Requirements
 
-At a bare minimum we need a working system that can calculate students grades. We should be able to display both numeric grades (0 to 4.0) and alphabetic grades (A, B, C, D, F). Regardless of other features in the system we need at least this much to work, but would like additional features incorporated as you have time and budget.
+At a bare minimum we need a working system that can calculate student's grades. We should be able to display both numeric grades (0 to 4.0) and alphabetic grades (A, B, C, D, F). Regardless of other features in the system we need at least this much to work, but would like additional features incorporated as you have time and budget.
 
 For this initial request each students grade will be based on a number of equally weighted tests in the range of 0 to 100 points for each tests. Each teacher will determine frequency and number of equally weighted tests for each of their classes.
 
@@ -41,7 +41,7 @@ For this initial request each students grade will be based on a number of equall
 | 97-100%    | 4.0 |
 | 93–96%     | 3.9 |
 | 90–92%     | 3.7 |
-| 87–89%     | 3.
+| 87–89%     | 3.3 |
 | 83–86%     | 3.0 |
 | 80–82%     | 2.7 |
 | 77–79%     | 2.3 |
