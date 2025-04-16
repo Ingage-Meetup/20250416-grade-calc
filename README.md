@@ -26,11 +26,15 @@ At a bare minimum we need a working system that can calculate students grades. W
 
 For this initial request each students grade will be based on a number of equally weighted tests in the range of 0 to 100 points for each tests. Each teacher will determine frequency and number of equally weighted tests for each of their classes.
 
-A - 90.0% to 100%
-B - 80.0% up to 90.0%
-C - 70.0% up to 80%
-D - 60.0% up to 70%
-F - 0.0% up to 60%
+### Alphabetic Grades
+
+    A - 90.0% to 100%
+    B - 80.0% up to 90.0%
+    C - 70.0% up to 80%
+    D - 60.0% up to 70%
+    F - 0.0% up to 60%
+
+### Numeric GPA
 
 | Percentage | GPA |
 | ---------- | --- |
