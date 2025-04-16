@@ -41,7 +41,7 @@ For this initial request each students grade will be based on a number of equall
 | 97-100%    | 4.0 |
 | 93–96%     | 3.9 |
 | 90–92%     | 3.7 |
-| 87–89%     | 3.3 |
+| 87–89%     | 3.
 | 83–86%     | 3.0 |
 | 80–82%     | 2.7 |
 | 77–79%     | 2.3 |
@@ -73,6 +73,8 @@ Additional considerations that we would be willing to pay extra for are as follo
 - Deductions of a letter grade for attendance problems such as missing X number of classes
 - Some students struggle at classes initially, and would benefit from additional bonus / makeup work?
 - Allow test re-takes for those students who want to retake a test
+- Allow each student to drop the lowest grade in certain categories
+- Increase / Decrease grade due to many times the parent have called to complain
 
 We also welcome ideas from you for additional functionality, discussions with you to help clarify the requirements, as well as ideas for simplifying the system and also making the system more flexible.
 
